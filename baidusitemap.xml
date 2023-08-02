@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite-url/cn/Stras/</loc>
+    <loc>https://stras1914.cn/cn/life/</loc>
+    <lastmod>2023-08-02</lastmod>
+  </url>
+  <url>
+    <loc>https://stras1914.cn/cn/Stras/</loc>
     <lastmod>2023-07-02</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/en/Stras/</loc>
+    <loc>https://stras1914.cn/en/Stras/</loc>
     <lastmod>2023-07-02</lastmod>
   </url>
 </urlset> 
